@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RisMouZ
+- 👋 Hi, I’m @RisMouZ, a french developer
 
 - 👀 I’m interested in crypto and more thing
 

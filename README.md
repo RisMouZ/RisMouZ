@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in crypto and more thing
 
-- 🌱 I’m currently learning React, Next.js, Typescript, Solidity ...
+- ⚡​ React, Typescript, Rust, Solidity ...
 
 - 📫 How to reach me plc.onchain@gmail.com
